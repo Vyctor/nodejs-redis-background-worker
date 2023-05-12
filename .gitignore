@@ -2,3 +2,4 @@ node_modules
 redis-data
 postgres-data
 .env
+.DS_Store 
